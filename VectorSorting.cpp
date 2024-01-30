@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : VectorSorting.cpp
-// Author      : Your name
+// Author      : David France
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
-// Description : Vector Sorting Algorithms
 //============================================================================
 
 #include <algorithm>
