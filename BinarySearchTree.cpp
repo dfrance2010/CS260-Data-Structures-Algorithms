@@ -2,8 +2,6 @@
 // Name        : BinarySearchTree.cpp
 // Author      : David France
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
-// Description : Hello World in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
